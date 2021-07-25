@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "David Park"
 description              : "An amazing website."
-url                      : "https://commy104.github.io"
+url                      : "https://udttvoyager.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "commy104/commy104.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
